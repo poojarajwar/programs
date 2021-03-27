@@ -5,7 +5,10 @@ Data structure
 Linked list
 Stack
 Heap
+Searching
 
 Thanks you.
+
+done my changes
 
 final copy.
